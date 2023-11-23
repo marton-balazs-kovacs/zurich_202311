@@ -1,0 +1,17 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb-meta
+
+# Conda
+.env/
+.env.*/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
